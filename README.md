@@ -107,7 +107,7 @@ In this playbook:
 ![](./Img/Without-Run.png)
 
 
-## Output Of Wuthout-Handler File
+## Output Of Without-Handler File
 
 ![](./Img/Without-Handler-Output.png)
 
